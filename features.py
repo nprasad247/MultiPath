@@ -1,4 +1,3 @@
-import atom_features as af
 from inspect import signature
 import numpy as np
 from rdkit import Chem
